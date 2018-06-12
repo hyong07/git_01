@@ -1,5 +1,9 @@
 package kh.web.controller;
 
 public class MemberDAO {
- 尝具具具具具具居
+ public static void main(String[] args) {
+	System.out.println("尝具具具具具具居");
+	System.out.println("汗洒具 捞繁内靛绰 绝绢 坷幅唱");
+}
+	
 }
